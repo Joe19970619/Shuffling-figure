@@ -1,5 +1,3 @@
-![轮播图的基本样式](http://upload-images.jianshu.io/upload_images/2768522-fe5b418e386a4e62.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 # JavaScript写个轮播效果
 
 这次也是一个适合**JavaScript初学者**的小练手，用JavaScript的基本知识去写一个轮播图，其实轮播图有很多方法去实现，像用一些框架，Bootstrap之类的，或者CSS3都可以轻松做出漂亮的轮播图，这次去用JavaScript实现，主要是为了锻炼自己使用Js的能力，代码非常简单，我会先放出HTML和CSS部分，最后详细讲解Js部分，还是那句话，重要的是思路，希望Js的初学者可以跟着我动手敲一敲，绝对对自己的能力有提升！
